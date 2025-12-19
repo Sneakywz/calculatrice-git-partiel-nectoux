@@ -1,6 +1,7 @@
 # Calculatrice Web
 
 ## Fonctionnalités
-- Addition
+- Addition (implémentée)
 - Soustraction
 - Multiplication
+
