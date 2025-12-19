@@ -1,12 +1,8 @@
-# Calculatrice Web
+# Calculator Project
 
-## Fonctionnalités
-- Addition (implémentée)
-- Soustraction
-- Multiplication
+## Features
 
-## Fonctionnalités
-- Addition (implémentée)
-- Soustraction
-- Multiplication
+- Operation: TODO ..
+
+- Operation: Addition implemented
 
