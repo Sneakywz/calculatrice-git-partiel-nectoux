@@ -1,5 +1,4 @@
-# Calculator Project
-
 ## Features
 
-- Operation: TODO
+- Operation: Addition implemented
+- Operation: Subtraction implemented
