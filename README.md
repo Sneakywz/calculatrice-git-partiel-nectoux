@@ -1,12 +1,18 @@
 # Calculatrice Web
 
 ## Fonctionnalités
-- Addition (implémentée)
-- Soustraction
+- Addition
+- Soustraction (implémentée)
 - Multiplication
+
 
 ## Fonctionnalités
 - Addition (implémentée)
 - Soustraction
 - Multiplication
+## Fonctionnalités
+- Addition
+- Soustraction (implémentée)
+- Multiplication
+
 
