@@ -1,5 +1,3 @@
-# Calculator Project
-
 ## Features
 
 - Operation: Addition implemented
