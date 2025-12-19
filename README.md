@@ -2,5 +2,6 @@
 
 ## Features
 
-- Operation: Subtraction implemented
+- Operation: Multiplication implemented
+
 
