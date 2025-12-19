@@ -5,3 +5,8 @@
 - Soustraction
 - Multiplication
 
+## Fonctionnalités
+- Addition (implémentée)
+- Soustraction
+- Multiplication
+
